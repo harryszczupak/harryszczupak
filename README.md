@@ -45,7 +45,9 @@
 >
 > Built from scratch as a fullstack project for real-world deployment. Live and fully functional!
 
----
+<p align="center">
+  <img src="./screenshots/infiniteapparel-home.jpg" alt="Infinite Apparel Homepage" width="800"/>
+</p>
 
 ### 📊 GitHub Stats
 
