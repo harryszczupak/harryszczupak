@@ -32,6 +32,33 @@
 
 ---
 
+---
+
+### 🎯 Learning Goals
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+<table>
+  <tr>
+    <td>
+
+- 🧪 Mastering <b>Jest.js</b> for testing JavaScript and React applications<br>
+- 📱 Learning <b>React Native</b> to build cross-platform mobile apps<br>
+- ⚡ Exploring <b>Next.js</b> for server-side rendering and static site generation
+
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVlZ3FkNjl1ZHFrZG4zOXMyZ3Q5ZmwwM3FxMmJrbzF5YmkzcGZpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="250" />
+    </td>
+  </tr>
+</table>
+---
+
+---
 ### 🚀 Featured Project
 
 #### 🛒 [infiniteapparelwear.com](https://infiniteapparelwear.com)
@@ -49,6 +76,9 @@
   <img src="./screenshots/infiniteapparel-home.jpg" alt="Infinite Apparel Homepage" width="500"/>
 </p>
 
+
+---
+---
 ### 📊 GitHub Stats
 
 <p align="left">
