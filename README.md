@@ -9,7 +9,7 @@
 - 🧰 I graduated from a technical high school as an **IT Technician**  
 - 🌱 Currently learning **advanced backend and DevOps**  
 - 🚀 Passionate about building modern web applications  
-- 📫 Contact me at: **yourmail@gmail.com**
+- 📫 Contact me at: **gpro6833@gmail.com**
 
 ---
 
