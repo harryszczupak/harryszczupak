@@ -10,7 +10,7 @@
 - 💼 I work as a **freelancer** on fullstack projects  
 - 🌱 Currently learning **advanced backend and DevOps**  
 - 🚀 Passionate about building modern web applications  
-- 📫 Contact me at: **gpro6833@gmail.com**
+- 📫 Contact me at: **jakubduda449@gmail.com**
 
 ---
 
